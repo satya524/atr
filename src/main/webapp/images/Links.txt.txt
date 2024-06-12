@@ -1,0 +1,18 @@
+JSP and Sevlet example:-
+
+https://www.youtube.com/watch?v=4XNzeodniZg
+
+https://www.tutussfunny.com/search-records-using-servlet-jsp-mysql/#google_vignette
+...................................................
+
+SQL QUERYS URL
+
+https://gist.github.com/bradtraversy/c831baaad44343cc945e76c2e30927b3#insert-multiple-rows%20(my%20sql)
+
+............................................................
+
+file upload example: https://www.youtube.com/watch?v=znjhY71F-8I
+
+..........................................................................
+
+
